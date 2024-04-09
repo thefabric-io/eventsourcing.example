@@ -14,7 +14,7 @@ This example is based on the [eventsourcing package](https://github.com/thefabri
 
 ### Prerequisites
 
-- Go 1.15 or higher
+- Go 1.20 or higher
 - Access to a PostgreSQL database for event storage
 - [godotenv](https://github.com/joho/godotenv) library for loading environment variables
 
